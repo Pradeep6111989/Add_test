@@ -7,7 +7,7 @@ public class Addition {
 	System.out.println("HIII");
 System.out.println("");
 System.out.println("new task");
-System.out.println("adding mthd");
+System.out.println("adding mthd122");
 	}
 
 }
